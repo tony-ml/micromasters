@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 0.172.0
+Version 0.172.0 (Released October 20, 2020)
 ---------------
 
 - Bump lodash from 4.17.11 to 4.17.19
